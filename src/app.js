@@ -10,6 +10,5 @@ try {
 } catch(err) {}
 
 
-exports.dayOfTheWeek = dayOfTheWeek;
+exports.dayOfTheWeek = dayOfTheWeekerror;
 
-error is provocated by this line on purpose to make github actions fail
