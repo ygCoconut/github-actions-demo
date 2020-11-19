@@ -10,5 +10,5 @@ try {
 } catch(err) {}
 
 
-exports.dayOfTheWeek = dayOfTheWeekerror;
+exports.dayOfTheWeek = dayOfTheWeek;
 
