@@ -11,3 +11,5 @@ try {
 
 
 exports.dayOfTheWeek = dayOfTheWeek;
+
+error is provocated by this line on purpose to make github actions fail
